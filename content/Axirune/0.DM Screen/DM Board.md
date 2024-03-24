@@ -1,0 +1,4 @@
+
+
+`BUTTON[newNPCButton]`
+`BUTTON[newSettlementButton]`
